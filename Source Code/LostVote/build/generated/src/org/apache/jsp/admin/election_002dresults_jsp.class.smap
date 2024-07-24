@@ -1,0 +1,14 @@
+SMAP
+election_002dresults_jsp.java
+JSP
+*S JSP
+*F
++ 0 election-results.jsp
+admin/election-results.jsp
+*L
+5,40:44
+45:84,3
+46,132:87
+178:219,3
+179,20:222
+*E

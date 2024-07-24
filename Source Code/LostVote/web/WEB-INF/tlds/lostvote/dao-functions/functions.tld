@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib version="2.1" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd">
+  <tlib-version>1.0</tlib-version>
+  <short-name>functions</short-name>
+  <uri>/WEB-INF/tlds/dao-functions/functions</uri>
+  
+  <function>
+      <name>insertReminder</name>
+      <function-class>com.lostvote.dao.functions.ReminderDao</function-class>
+      <function-signature>java.lang.String insertReminder(com.mysql.jdbc.jdbc2.optional.MysqlDataSource, java.lang.String, java.lang.String, java.lang.String)</function-signature>
+      <description>Insertion into reminders table in lostvote database</description>
+  </function>
+  <function>
+      <name>insertElection</name>
+      <function-class>com.lostvote.dao.functions.ElectionDao</function-class>
+      <function-signature>java.lang.String insertElection(com.mysql.jdbc.jdbc2.optional.MysqlDataSource, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)</function-signature>
+      <description>Insertion into elections table in lostvote database</description>
+  </function>
+  <function>
+      <name>insertCandidate</name>
+      <function-class>com.lostvote.dao.functions.CandidateDao</function-class>
+      <function-signature>java.lang.String insertCandidate(com.mysql.jdbc.jdbc2.optional.MysqlDataSource, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)</function-signature>
+      <description>Insertion into candidates table in lostvote database</description>
+  </function>
+  <function>
+      <name>insertVoter</name>
+      <function-class>com.lostvote.dao.functions.VoterDao</function-class>
+      <function-signature>java.lang.String insertVoter(com.mysql.jdbc.jdbc2.optional.MysqlDataSource, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)</function-signature>
+      <description>Insertion into voters table in lostvote database</description>
+  </function>
+  <function>
+      <name>updateAdmin</name>
+      <function-class>com.lostvote.dao.functions.AdminDao</function-class>
+      <function-signature>java.lang.String updateAdmin(com.mysql.jdbc.jdbc2.optional.MysqlDataSource, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)</function-signature>
+      <description>Update into admins table in lostvote database</description>
+  </function>
+  <function>
+      <name>updateAdminPassword</name>
+      <function-class>com.lostvote.dao.functions.AdminDao</function-class>
+      <function-signature>java.lang.String updateAdminPassword(com.mysql.jdbc.jdbc2.optional.MysqlDataSource, java.lang.String, java.lang.String, java.lang.String, java.lang.String)</function-signature>
+      <description>Update password into admins table in lostvote database</description>
+  </function>
+  <function>
+      <name>updateVoterPassword</name>
+      <function-class>com.lostvote.dao.functions.VoterDao</function-class>
+      <function-signature>java.lang.String updateVoterPassword(com.mysql.jdbc.jdbc2.optional.MysqlDataSource, java.lang.String, java.lang.String, java.lang.String, java.lang.String)</function-signature>
+      <description>Update password into voters table in lostvote database</description>
+  </function>
+</taglib>
