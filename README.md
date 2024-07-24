@@ -1,11 +1,12 @@
 # LostVote - be bright, vote for the right.
+#### Author: @MahinSojitra
 
 [NetBeans IDE Version] : version 8.2 <br>
 [Java SDK Version] : version 8.x <br>
 [Java EE Version] : version 8 <br>
 [XAMPP Version] : any version <br>
 
-### Important Note
+## Note
 - Internet connection must required to run this project.
 
 ## Instructions :
@@ -31,11 +32,10 @@
 1. Run the index file of LostVote from NetBeans IDE.
 
 ## Credentials
-=> Admin :
-Username : MahinSojitra
-Password : mahin123
+=> Admin : <br>
+Username : MahinSojitra <br>
+Password : mahin123 <br>
 
-=> Voter :
-Username : Mahin
-Password : mahin123
-
+=> Voter : <br>
+Username : Mahin <br>
+Password : mahin123 <br>
