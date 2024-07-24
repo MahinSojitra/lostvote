@@ -36,17 +36,17 @@
 </ol>
 
 <h4>Credentials</h4>
-<ul style='list-style-type:square;'>
+<ul>
     <li>Admin</li>
-    <li>
+    <ul>
         <li>Username : MahinSojitra</li>
         <li>Password : mahin123</li>
-    </li>
+    </ul>
     <li>Voter</li>
-    <li>
+    <ul>
         <li>Username : Mahin</li>
         <li>Password : mahin123</li>
-    </li>
+    </ul>
 </ul>
 
 #### Note : Internet connection must required to run this project.
