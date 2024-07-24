@@ -1,4 +1,4 @@
-# LostVote - be bright, vote for the right. \t <font color="blue">@MahinSojitra</font>
+# LostVote - be bright, vote for the right.
 
 [NetBeans IDE Version] : version 8.2 <br>
 [Java SDK Version] : version 8.x <br>
@@ -36,4 +36,7 @@ Password : mahin123 <br>
 Username : Mahin <br>
 Password : mahin123 <br>
 
-#### <font color="red">Note : Internet connection must required to run this project.</font>
+### Note : Internet connection must required to run this project.
+
+## Developed by
+Mahin Sojitra
