@@ -37,5 +37,5 @@ Username : Mahin <br>
 Password : mahin123 <br>
 
 <span style="color: red;">
-#Note : Internet connection must required to run this project.
+Note : Internet connection must required to run this project.
 </span>
