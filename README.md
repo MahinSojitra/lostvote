@@ -1,13 +1,9 @@
-# LostVote - be bright, vote for the right.
-#### Author: @MahinSojitra
+# LostVote - be bright, vote for the right. \t <font color="blue">@MahinSojitra</font>
 
 [NetBeans IDE Version] : version 8.2 <br>
 [Java SDK Version] : version 8.x <br>
 [Java EE Version] : version 8 <br>
 [XAMPP Version] : any version <br>
-
-## Note
-- Internet connection must required to run this project.
 
 ## Instructions :
 1. Open Project in NetBeans IDE
@@ -39,3 +35,5 @@ Password : mahin123 <br>
 => Voter : <br>
 Username : Mahin <br>
 Password : mahin123 <br>
+
+#### <font color="red">Note : Internet connection must required to run this project.</font>
