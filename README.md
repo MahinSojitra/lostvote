@@ -7,8 +7,8 @@
 
 <h4>Instructions</h4>
 <ol>
-    <li>Open Project in NetBeans IDE<li>
-    <li>Resolve Dependency JAR javax.mail-1.6.2 from Required JARs folder.<li>
+    <li>Open Project in NetBeans IDE</li>
+    <li>Resolve Dependency JAR javax.mail-1.6.2 from Required JARs folder.</li>
 </ol>
 
 <h4>Changing the Port of Server</h4>
