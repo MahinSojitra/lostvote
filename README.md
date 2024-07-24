@@ -36,7 +36,6 @@ Password : mahin123 <br>
 Username : Mahin <br>
 Password : mahin123 <br>
 
-### Note : Internet connection must required to run this project.
-
-## Developed by
-Mahin Sojitra
+<span style="color: red;">
+#Note : Internet connection must required to run this project.
+</span>
